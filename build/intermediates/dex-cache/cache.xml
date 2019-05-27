@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/lisa/.android/build-cache/a2ecd27e1270181b47c710d72dcf787cc6e90062/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/lisa/lpnu/MyOrganizer/app/build/intermediates/pre-dexed/debug/classes_d1221673b6b1048482952269357f534d31ab52ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lisa/.android/build-cache/b1f11bc35df845e5aaaa5d0333a85393f77d34c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/lisa/lpnu/MyOrganizer/app/build/intermediates/pre-dexed/debug/classes_6ec38db348c0de29922ad02d60c9ef6bd87895f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lisa/.android/build-cache/e0a8055a197418f106573ee7bf5fabcc43d46e71/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/lisa/lpnu/MyOrganizer/app/build/intermediates/pre-dexed/debug/classes_a40c8571bb51284d3d567e571b67b336d22ee7b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lisa/.android/build-cache/f2c6218db8c50d2a441d3eb9a346888921110576/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/lisa/lpnu/MyOrganizer/app/build/intermediates/pre-dexed/debug/classes_ffe0b486c9042ded51640c4ff30a8b80c644f283.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lisa/.android/build-cache/5b63ee93db1c9720cf08125a5e68161276e60c04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/lisa/lpnu/MyOrganizer/app/build/intermediates/pre-dexed/debug/classes_5b9fb30df1baf5d345f78afc73d77a5eca85e4f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lisa/.android/build-cache/4d0efbc94e18fbbb3585c496c896f5fc3bc27390/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/lisa/lpnu/MyOrganizer/app/build/intermediates/pre-dexed/debug/classes_a83527f2dd0fd633ee655ef80a00b9d9c63f9f77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lisa/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/lisa/lpnu/MyOrganizer/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_b3fa9fb9f784c0889a687ce774ea211b0ae333b8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lisa/lpnu/MyOrganizer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="77efb071d170c0876ed2fc6a64fd4a70d91ea658">
+        <dex dex="/home/lisa/lpnu/MyOrganizer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e39fc95ebb424da0acbfc040c5e69a797ea4e203/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lisa/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/lisa/lpnu/MyOrganizer/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_e0079c9c04da4f3d6b99186ac1c99120e78b8f71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lisa/.android/build-cache/8a8fc2a07ed6e597770a9f3f6ebe5cd6a369fbb2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/lisa/lpnu/MyOrganizer/app/build/intermediates/pre-dexed/debug/classes_7b17e2f1823567c8eda932888b37dc113899f446.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lisa/.android/build-cache/a1a4983fdf1358cc99db67a415a5b14f7d7ac43b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/lisa/lpnu/MyOrganizer/app/build/intermediates/pre-dexed/debug/classes_df5a33ef0b361b0acb4e19a1ffa33eb696618c44.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lisa/lpnu/MyOrganizer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/lisa/lpnu/MyOrganizer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9fcda0e0a6f4d37a860344e42535735a88f08912/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lisa/.android/build-cache/e95ef6d95f8053f7e3ef69910823fd98e11c589b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/lisa/lpnu/MyOrganizer/app/build/intermediates/pre-dexed/debug/classes_03b61e5fcbed8bdfdcfdbf19c8970f97dc5e7c38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lisa/.android/build-cache/a80fa90b145be5e21177b924a6fcc847fed3dd56/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/lisa/lpnu/MyOrganizer/app/build/intermediates/pre-dexed/debug/classes_af4587619212e3fe6f1090364916c6a6ce189207.jar" />
+    </item>
+
+</items>
